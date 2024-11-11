@@ -1,1 +1,1 @@
-# this is a frontend project
+# this is a frontend project (dropdown)
